@@ -1,4 +1,5 @@
 📊 Dynamic Pricing Analysis using Pandas and Matplotlib
+
 This project demonstrates how to analyze and simulate dynamic pricing strategies using Python, Pandas, and Matplotlib. It is designed to be beginner-friendly, with code that is extensively commented for easy learning and understanding.
 
 📌 What This Project Does
@@ -27,6 +28,7 @@ Applying rules like price increases/decreases to test business outcomes.
 Using plots to understand trends over time and in comparison to competition.
 
 📦 Requirements
+
 To run this notebook, you’ll need:
 
 1. Python 3.x
@@ -46,5 +48,6 @@ pip install pandas matplotlib
 4. The code will guide you with comments and outputs at each step.
 
 🔍 Acknowledgement
+
 This project was made for learning purposes and was inspired by
 https://amanxai.com/2024/07/22/price-optimization-using-python/
